@@ -62,6 +62,8 @@ Some large database insert/update queries can cause significant changes in the
 behaviour of the system. For example, changing the due date of large numbers of
 opportunities could cause large batches of orders to be created.
 
+As of November 2024, what counts as "significant" has not been specified.
+
 ## Contacts
 
 If you have questions, please ask:
